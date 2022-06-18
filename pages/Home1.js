@@ -46,7 +46,7 @@ export default class Home extends Component {
       onPress = { () => alert('Yaay! Baby is Kicking') }
     >
       <Text style={{ fontSize: 100,
-    fontFamily: "FuturaBold",}}> 30 </Text>
+    fontFamily: "FuturaBold",}}> 45 </Text>
     </TouchableHighlight>
 
 
