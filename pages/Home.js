@@ -24,7 +24,7 @@ export default class Home extends Component {
         >
           <View style={{ height: 140, alignSelf: "stretch" }}></View>
           <View style={{ alignSelf: "flex-start", marginLeft: 15 }}>
-            <Text style={styles.title}>BABY KICK MONITOR </Text>
+            <Text style={styles.title}>BABY KICK KICK MONITOR </Text>
             <View style={{ height: 0 }}></View>
             <Text style={styles.subtitle}>
               Growth: Baby and Child Starts
